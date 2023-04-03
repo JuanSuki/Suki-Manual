@@ -1,1 +1,6 @@
-# Suki-Manual
+---
+description: Welcome to FAQ
+---
+
+# FAQ
+
