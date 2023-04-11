@@ -24,8 +24,15 @@ Youtube
 Instagram
 {% endembed %}
 
-### Also in&#x20;
+### Also in
 
 {% embed url="https://www.linkedin.com/company/mysukiapp?trk=similar-pages_result-card_full-click" %}
 Linked In
 {% endembed %}
+
+![](<.gitbook/assets/3670147 (1).png>)
+
+| ![](<.gitbook/assets/download (1) (2).png>) | ![](.gitbook/assets/3670147.png) |   |
+| ------------------------------------------- | -------------------------------- | - |
+|                                             |                                  |   |
+|                                             |                                  |   |
