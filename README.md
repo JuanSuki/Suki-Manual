@@ -10,29 +10,22 @@ This board is intended for discussions, inquiries, help and support. Email us at
 
 <figure><img src=".gitbook/assets/sukicover.jpg" alt=""><figcaption></figcaption></figure>
 
-### Follow us on Social Media
+### Follow us on:
 
-{% embed url="https://www.facebook.com/mysukiapp" %}
-Facebook
-{% endembed %}
+<div>
 
-{% embed url="https://www.youtube.com/channel/UC6e30ZtkcDJzQM1P1G4qtwA" %}
-Youtube
-{% endembed %}
+<figure><img src=".gitbook/assets/download (1) (1).png" alt=""><figcaption><p><a href="https://www.facebook.com/mysukiapp">Facebook</a></p></figcaption></figure>
 
-{% embed url="https://instagram.com/mysukiapp?igshid=YmMyMTA2M2Y=" %}
-Instagram
-{% endembed %}
+ 
 
-### Also in
+<figure><img src=".gitbook/assets/3670147 (4).png" alt=""><figcaption><p><a href="https://www.youtube.com/channel/UC6e30ZtkcDJzQM1P1G4qtwA">Youtube</a></p></figcaption></figure>
 
-{% embed url="https://www.linkedin.com/company/mysukiapp?trk=similar-pages_result-card_full-click" %}
-Linked In
-{% endembed %}
+ 
 
-![](<.gitbook/assets/3670147 (1).png>)
+<figure><img src=".gitbook/assets/Instagram-Icon.png" alt=""><figcaption><p><a href="https://instagram.com/mysukiapp?igshid=YmMyMTA2M2Y=">Instagram</a></p></figcaption></figure>
 
-| ![](<.gitbook/assets/download (1) (2).png>) | ![](.gitbook/assets/3670147.png) |   |
-| ------------------------------------------- | -------------------------------- | - |
-|                                             |                                  |   |
-|                                             |                                  |   |
+ 
+
+<figure><img src=".gitbook/assets/download (2) (2).png" alt=""><figcaption><p><a href="https://www.linkedin.com/company/mysukiapp?trk=similar-pages_result-card_full-click">LinkedIn</a></p></figcaption></figure>
+
+</div>
