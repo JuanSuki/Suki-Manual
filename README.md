@@ -1,16 +1,14 @@
+---
+description: Here's our social page available. You can also message, call or email us
+---
+
 # How to contact us?
 
 {% hint style="info" %}
 If you have a concerns, questions or inquiries, kindly email us or message us on our social media pages
 {% endhint %}
 
-## Let us know what you think!
-
-This board is intended for discussions, inquiries, help and support. Email us at [hello@suki.io](mailto:hello@suki.io) or call us at [(+63) 917 652 2635](https://docs.suki.io/internal/##)
-
-<figure><img src=".gitbook/assets/sukicover.jpg" alt=""><figcaption></figcaption></figure>
-
-### Follow us on:
+## Follow us on:
 
 <div>
 
@@ -29,3 +27,9 @@ This board is intended for discussions, inquiries, help and support. Email us at
 <figure><img src=".gitbook/assets/download (2) (2).png" alt=""><figcaption><p><a href="https://www.linkedin.com/company/mysukiapp?trk=similar-pages_result-card_full-click">LinkedIn</a></p></figcaption></figure>
 
 </div>
+
+## Let us know what you think!
+
+This board is intended for discussions, inquiries, help and support. Email us at [hello@suki.io](mailto:hello@suki.io) or call us at [(+63) 917 652 2635](https://docs.suki.io/internal/##)
+
+<figure><img src=".gitbook/assets/sukicover.jpg" alt=""><figcaption></figcaption></figure>
