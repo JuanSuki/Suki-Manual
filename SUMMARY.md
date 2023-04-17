@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is My Suki?](README.md)
+* [What is My Suki ?](README.md)
 * [How to use?](how-to-use/README.md)
   * [Downloading & Installing](how-to-use/downloading-and-installing.md)
   * [Create & Set Up Account](how-to-use/create-and-set-up-account.md)
