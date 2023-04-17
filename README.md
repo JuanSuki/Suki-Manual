@@ -37,3 +37,5 @@ Currently the ordering is only available for mobile devices, we support the IOS,
 * In case that you can't reach the store, you can directly message us on [facebook](https://www.facebook.com/mysukiapp) so we can help you with your concern
 
 </details>
+
+In case your concern is not included on the list. Kindly reach us contact us [here](http://localhost:5000/s/3AMJddZzwKBD0aUQhAmR/).&#x20;
