@@ -1,19 +1,24 @@
----
-description: This page will highlight the new features or releases
----
+# Release Notes
 
-# What's new?
+{% hint style="danger" %}
+some of the content need to update. Please be patient. Thankss
+{% endhint %}
 
-## My Rotero App is up!
+{% hint style="info" %}
+This page contains the list of Suki App, Portal or Suite Fixes and Feature Releases. (for internal use only).
+{% endhint %}
 
-Currently the dev team release a new app called My Rotero App. My Rotero App is for Beverage Distributor van-selling personnel. My Rotero App is now able to place an order and complete it without the intervention of portal staff, this will count already to our MAU and GMV.&#x20;
+***
 
-**Version**: 1.0.9
+## Current Running Version
 
-**Document Available:**&#x20;
+| Tools                    | Version               |
+| ------------------------ | --------------------- |
+| <h4>Suki Portal</h4>     | <h4>Ver 1.45.6 p</h4> |
+| <h4>My Suki App</h4>     | <h4>Ver 1.34.11</h4>  |
+| <h4>My Picker App</h4>   | <h4>Ver 1.8.0</h4>    |
+| <h4>My Driver App</h4>   | <h4>Ver 1.6.0</h4>    |
+| <h4>My Manager App</h4>  | <h4>Ver 1.6.0</h4>    |
+| <h4>My Salesman App</h4> | <h4>Ver 1.1.0</h4>    |
+| <h4>My Rotero App</h4>   | <h4>Ver 1.0.5</h4>    |
 
-{% embed url="https://docs.google.com/presentation/d/e/2PACX-1vS19qMtVjzFjIr7J_91LA1q9nNNNKahEh-uX0SqnumSiz2ANcnNVWVl27VqtAFBP-ORZ8DGakKRMkJ1/pub?delayms=3000&loop=false&start=false" %}
-
-**Terms and Definition**&#x20;
-
-Van-selling - is a type of distribution method whereby a manufacturer will bypass Retailer Distribution Centres to deliver and upsell stock directly to retailers
